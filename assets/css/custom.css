@@ -42,7 +42,16 @@ body .reveal {
 .reveal section .header {
   color: #2a6b8b;
   /* color: #009cde; */
-  font-size: 1.7em;
+  font-size: 1.5em;
+}
+
+
+.chapter-cover, .chapter-cover .title {
+  color: white !important;
+}
+
+.chapter-cover .title {
+  font-size: 1.8em;
 }
 
 
